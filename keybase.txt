@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/cadox8
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://projectalphaes.github.io
+  * I am cadox8 (https://keybase.io/cadox8) on keybase.
+  * I have a public key ASD4zC5pq6DbbeGkrsJLViJGgAasmqdKMgWCvlCYZRamEQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f8cc2e69aba0db6de1a4aec24b5622468006ac9aa74a320582be50986516a6110a",
+      "host": "keybase.io",
+      "kid": "0120f8cc2e69aba0db6de1a4aec24b5622468006ac9aa74a320582be50986516a6110a",
+      "uid": "c9ded3ecc9bd2cd697843b1185ec2d19",
+      "username": "cadox8"
+    },
+    "merkle_root": {
+      "ctime": 1510562959,
+      "hash": "494c9d73456bd97b6ff0bf09142a9c53cade2e46af5bd3d6c76b0766df5ffe6f6558e7f8d268a6abd0212415984e4f3a698e03317432c980c2ca8ff6406a56ec",
+      "hash_meta": "1fc4d156942d9e8ec72e87907d630b2ae061f21e4fd36caff455928b8eb76d8f",
+      "seqno": 1698570
+    },
+    "service": {
+      "hostname": "projectalphaes.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1510562994,
+  "expire_in": 504576000,
+  "prev": "d93ef6f420a14a3f81db70ff03edf23df9e49ed421e184978dc4d70362bc147b",
+  "seqno": 74,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+Mwuaaug223hpK7CS1YiRoAGrJqnSjIFgr5QmGUWphEKp3BheWxvYWTFA097ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZjhjYzJlNjlhYmEwZGI2ZGUxYTRhZWMyNGI1NjIyNDY4MDA2YWM5YWE3NGEzMjA1ODJiZTUwOTg2NTE2YTYxMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZjhjYzJlNjlhYmEwZGI2ZGUxYTRhZWMyNGI1NjIyNDY4MDA2YWM5YWE3NGEzMjA1ODJiZTUwOTg2NTE2YTYxMTBhIiwidWlkIjoiYzlkZWQzZWNjOWJkMmNkNjk3ODQzYjExODVlYzJkMTkiLCJ1c2VybmFtZSI6ImNhZG94OCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxMDU2Mjk1OSwiaGFzaCI6IjQ5NGM5ZDczNDU2YmQ5N2I2ZmYwYmYwOTE0MmE5YzUzY2FkZTJlNDZhZjViZDNkNmM3NmIwNzY2ZGY1ZmZlNmY2NTU4ZTdmOGQyNjhhNmFiZDAyMTI0MTU5ODRlNGYzYTY5OGUwMzMxNzQzMmM5ODBjMmNhOGZmNjQwNmE1NmVjIiwiaGFzaF9tZXRhIjoiMWZjNGQxNTY5NDJkOWU4ZWM3MmU4NzkwN2Q2MzBiMmFlMDYxZjIxZTRmZDM2Y2FmZjQ1NTkyOGI4ZWI3NmQ4ZiIsInNlcW5vIjoxNjk4NTcwfSwic2VydmljZSI6eyJob3N0bmFtZSI6InByb2plY3RhbHBoYWVzLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTEwNTYyOTk0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImQ5M2VmNmY0MjBhMTRhM2Y4MWRiNzBmZjAzZWRmMjNkZjllNDllZDQyMWUxODQ5NzhkYzRkNzAzNjJiYzE0N2IiLCJzZXFubyI6NzQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAUGUTEtC94VLcGQzocOF1jMxOjiAl6pktS/AI0utDUN/PVPpIhKheGof06QJSa0IwE3Sdk5Yn4glLyqpT2rmBCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAHNrIq9tACfcxIEdNXTgz9kRgaRr9lB1VGWhFwdcIafo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cadox8
+
+==================================================================
